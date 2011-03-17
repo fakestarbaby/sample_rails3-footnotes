@@ -4,6 +4,7 @@ gem 'rails', '3.0.5'
 
 # Bundle the extra gems:
 gem 'sqlite3-ruby', :require => 'sqlite3'
+gem 'heroku'
 
 group :development do
   gem 'rails3-footnotes', :git => 'git://github.com/indirect/rails-footnotes.git'
